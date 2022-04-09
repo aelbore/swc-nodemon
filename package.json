@@ -1,0 +1,29 @@
+{
+  "name": "vue-node-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelbore/vue-node-mongodb.git"
+  },
+  "keywords": [],
+  "author": "aelbore.sg@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aelbore/vue-node-mongodb/issues"
+  },
+  "homepage": "https://github.com/aelbore/vue-node-mongodb#readme",
+  "devDependencies": {
+    "@polka/send": "^1.0.0-next.15",
+    "@qoi/cli": "^0.0.23",
+    "@qoi/types": "^0.0.2",
+    "nodemon": "^2.0.15",
+    "polka": "^1.0.0-next.22"
+  }
+}
